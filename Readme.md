@@ -4,7 +4,7 @@ This document outlines the steps performed during the credit card launch analysi
 
 ## Basic Operations
 
-### Phase 1
+# Phase 1
 
 1. **Pandas Operations**
    - **Functions Used**: `head()`, `shape`, `info()`, `describe()`
@@ -84,7 +84,21 @@ This document outlines the steps performed during the credit card launch analysi
       ```
     - Fill the transaction amounts with the mean based on the product category level.
 
-### Phase 2
+### Visualizations 
+
+![image](https://github.com/user-attachments/assets/99c2811a-3dde-475f-a517-2e246869b952)
+
+![image](https://github.com/user-attachments/assets/22a15196-2125-40f7-9c81-3a357fc9bf71)
+
+![image](https://github.com/user-attachments/assets/3c4705f2-ec8c-43c8-a140-65d44a81460a)
+
+![image](https://github.com/user-attachments/assets/40066ed3-6a7b-4592-be37-2a963cb6cfff)
+
+![image](https://github.com/user-attachments/assets/4981f950-bb51-4123-9717-cdba69bdbf4e)
+
+![image](https://github.com/user-attachments/assets/0ffb5154-9e4c-4018-9753-2ea3206b60f7)
+
+# Phase 2
 
 In this phase, we will focus on advanced analytics and model building to further assess the effectiveness of the new credit card and its impact on customer behavior and transaction trends. Detailed methodologies will be outlined in subsequent sections.
 
